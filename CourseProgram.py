@@ -19,8 +19,8 @@ def main():
     status = "open"
     students = ["John", "James", "Jill", "Jack", "Joanne"]
 
-    for student in students:
-        print(student)
+    # for student in students:
+    #   print(student)
 
     MyCourse = c.Course("MIS 4322 - Advanced Python", "250309", 4, "open")
 
